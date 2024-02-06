@@ -1,0 +1,35 @@
+p {
+    letter-spacing: 5px;
+    text-indent: 50px;
+    line-height: 1.5;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+    transition: all 5s, ease;
+
+}
+
+/* .box: hover {
+    background-color: blueviolet;
+    width: 600px;
+    height: 500px;
+    transform: rotate(180deg);
+} */
+
+.container {
+    position: absolute;
+    top: 200px;
+    width: 500px;
+    height: 200px;
+    beckground-color: rgb(13, 242, 62);   
+}
+
+ .para {
+    width: 300px;
+    height: 200px;
+    background-color: grey;
+    overflow-x: scroll;
+}

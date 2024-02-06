@@ -1,0 +1,25 @@
+ul {
+    display: flex;
+    gap: 20px;  
+}
+
+.header-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+li {
+    list-style: none;
+}
+
+span {
+    font-style: arier-sans-serif;
+    font-family: 'Courier New', Courier, monospace;
+     font-size:  32px;
+}
+
+li a:hover {
+    color: cadetblue;
+    transition: all 0.2s ease-in-out;
+}

@@ -1,0 +1,54 @@
+div {
+    display: block;
+}
+
+
+.tbl td, .tbl th  { 
+	text-align: center; 
+	padding:2px 2px 2px 2px !important;
+	font-size:14px;
+	color:#333333;
+}
+
+.tbl-pav  { 
+	font-weight: bolder;
+	margin: 7px 7px 7px 7px;
+ }
+
+.tbl-top-border {
+	border-top: 5px #dcdcdc solid !important;
+	font-weight: normal !important;
+}
+
+.no-border {
+	border:0 !important;
+}
+
+.left-align {
+	text-align: left !important;
+}
+
+.pav-left {
+	width: 40px;
+	height: 100%;
+	white-space: nowrap;
+}
+
+.svente {
+	margin: 0;
+	padding: 0;
+	width: 20px;
+	height: 20px;
+	border: 1px #c50000 solid !important;
+	color: #c50000 !important;
+    background-color: #f7040444;
+
+}
+
+.sestadienis {
+	color: orange !important;
+}
+
+.sekmadienis {
+	color: #c50000 !important;
+}

@@ -1,0 +1,30 @@
+h3 {
+    color: brown;
+}
+
+table {
+    border: 1px black solid;
+    border-collapse: collapse;
+    text-align: center;
+    
+}
+
+th {
+    border: 1px black solid;
+    background-color: blue;
+    color: aqua;
+}
+
+td {
+    border: 1px black solid;
+}
+
+.ketvertas {
+    color: red;
+}
+
+i {
+    font-family: bootstrap-icon;
+    font-size: 150px;
+    
+}
